@@ -18,6 +18,8 @@ I created this Weather App because I wanted to build something that could help p
 
 ### How the App Works
 
+[Demonstration Video](https://www.youtube.com/embed/Z7LK0J7dTsE)
+
 The Weather App allows users to enter their location and retrieve real-time weather information. Here's a step-by-step overview of how it works:
 1. **User Input**: The user enters their location in the search box.
 2. **Fetch Weather Data**: The app sends a request to a weather API to fetch the current weather data for the entered location.
@@ -34,5 +36,3 @@ The development of this Weather App involved the following technologies:
 - [**OpenWeather API**](https://openweathermap.org): For retrieving real-time weather data.
 - [**FontAwesome**](https://fontawesome.com/icons): For providing icons used in the app.
 - [**Google Fonts**](https://fonts.google.com): For custom fonts to enhance the visual design.
-
-[Demonstration Video](https://www.youtube.com/embed/Z7LK0J7dTsE)
