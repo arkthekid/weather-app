@@ -28,8 +28,8 @@ The Weather App allows users to enter their location and retrieve real-time weat
 
 The development of this Weather App involved the following technologies:
 
-- **HTML**: For structuring the web page.
-- **CSS**: For styling the web page and making it visually appealing.
+- **HTML5**: For structuring the web page.
+- **CSS3**: For styling the web page and making it visually appealing.
 - [**JavaScript**](https://www.javascript.com): For handling user interactions and API requests.
 - [**OpenWeather API**](https://openweathermap.org): For retrieving real-time weather data.
 - [**FontAwesome**](https://fontawesome.com/icons): For providing icons used in the app.
