@@ -14,7 +14,7 @@ You would need to get your API key from [OpenWeather](https://openweathermap.org
 
 ### Why I Developed This Project
 
-I developed this project to provide a user-friendly application that allows users to check the current weather conditions in their location. This project serves as a practical implementation of various web development skills and aims to offer an intuitive and efficient weather-checking experience. Additionally, it was created to enhance my understanding of integrating APIs with front-end development.
+I created this Weather App because I wanted to build something that could help people in their daily lives. Almost all of us check the weather every day so I thought it would be cool to make an app that does this in a simple, user-friendly way. Plus, after working on this project I understood more about web development and learned more about how to connect front-end design with external APIs. It was a fun experience that taught me a lot about implementing practical, real-world applications.
 
 ### How the App Works
 
